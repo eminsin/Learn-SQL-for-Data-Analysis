@@ -5,18 +5,9 @@
 ## Author
 Erkam Minsin
 + Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
-
-## Resource
-+ [Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
-+ ![](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/images/Verified%20Analytics%20Bootcamp%20Certification.png)
-
-## Effort
-
 ## Code
 + Scripted on: **SQL Server 19.0.1**
-
 ## Topics and Documents
-
 ### Basics:
 + [Creating Tables](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/SQLBasics1_CreatingTables.sql)
 + [Select and From](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/SQLBasics2_SelectandFrom.sql)
@@ -35,3 +26,6 @@ Erkam Minsin
 + [String Functions](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/SQLAdvance2_StringFunctions.sql)
 + [Stored Procedures ](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/SQLAdvance3_StoredProcedures.sql)
 + [Subqueries ](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/SQLAdvance4_Subqueries.sql)
+## Resource
++ [Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
+![](https://github.com/eminsin/Learn-SQL-for-Data-Analysis/blob/main/images/Verified%20Analytics%20Bootcamp%20Certification.png)
